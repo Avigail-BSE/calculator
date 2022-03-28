@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/NBSE/bd57e574-0a9e-4698-9e0a-895a0c53a72c/e582308a-a183-441d-a165-0a2c45a2261a/_apis/work/boardbadge/a07c1217-5927-4796-948c-1cb0c1fe0bf3)](https://dev.azure.com/NBSE/bd57e574-0a9e-4698-9e0a-895a0c53a72c/_boards/board/t/e582308a-a183-441d-a165-0a2c45a2261a/Microsoft.RequirementCategory)
 Calculator.js: a node.js Demonstration Project
 ==============================================
 An example node.js project, including tests with mocha, that behaves like
